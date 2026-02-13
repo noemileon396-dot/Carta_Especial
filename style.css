@@ -102,11 +102,10 @@ body {
 }
 
 /* Foto para la L */
-.l { 
-    background-image: url('img/Foto (25).jpeg'); 
-    /* El primer valor (20%) mueve de izquierda a derecha */
-    /* El segundo valor (50%) mueve de arriba a abajo */
-    background-position: 180% 10%; 
+.l {
+    background-image: url('img/Foto (25).jpg'); /* <--- Revisa si es .jpg o .jpeg */
+    background-size: cover; /* Esto es CLAVE para que no salga en blanco */
+    background-position: center; /* Prueba con 'center' primero para ver si aparece */
 }
 
 /* Foto para la O */
