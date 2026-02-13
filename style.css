@@ -103,9 +103,11 @@ body {
 
 /* Foto para la L */
 .l {
-    background-image: url('img/Foto (25).jpg'); /* <--- Revisa si es .jpg o .jpeg */
-    background-size: cover; /* Esto es CLAVE para que no salga en blanco */
-    background-position: center; /* Prueba con 'center' primero para ver si aparece */
+    background-image: url('img/Foto%20(25).jpg') !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-block; /* Asegura que el contenedor tenga dimensiones */
 }
 
 /* Foto para la O */
