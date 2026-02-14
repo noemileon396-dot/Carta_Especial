@@ -130,7 +130,7 @@ const recuerdos = [
         info: "Novia feliz, vida feliz."
     },
     {
-        foto: "foto%20(158).JPG",
+        foto: "img/foto%2520(158).JPG",
         info: "Besitos."
     },
     {
