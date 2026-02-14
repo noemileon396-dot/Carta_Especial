@@ -106,7 +106,7 @@ const recuerdos = [
         info: "Como olvidar este dia. La primera vez que tube mi beso en el callejon del beso."
     },
     {
-        foto: "img/Foto (18).JPEG",
+        foto: "img/Foto%2520(18).JPEG",
         info: "Mi foto favorita. Hasta el momento (espero tengamos mas asi)"
     },
     {
