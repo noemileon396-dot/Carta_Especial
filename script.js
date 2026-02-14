@@ -130,7 +130,11 @@ const recuerdos = [
         info: "Novia feliz, vida feliz."
     },
     {
-        foto: "img/foto%20(158).JPG",
+        background-image: url('img/foto%20(158).JPG') !important;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: inline-block;
         info: "Besitos."
     },
     {
